@@ -5,7 +5,7 @@
 	################################################################################################################
 	$dirRaizServer = $_SERVER['DOCUMENT_ROOT'];
 	$enderecoHost ="http://".$_SERVER['SERVER_ADDR'];
-	$dirRef = "$enderecoHost/hazam/revocSoftware/requires/";
+	$dirRef = "$enderecoHost/revoc/revocSoftware/requires/";
 	$dirIcones = "/revoc/sistemas/pdv_premium/requires/img/icons/";
 	###################################################################################################################	
 	
